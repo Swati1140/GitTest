@@ -9,4 +9,4 @@
   ```
   Everything Should be Done from CLI/CMD/Terminal
   ```
-:x: _**Don't push anything on your own master branch**_
+:heavy_check_mark: _**Good Work Team, Keep it up!**_
