@@ -6,4 +6,4 @@
   ```
 :heavy_check_mark: _**Good Work! Team**_
 
-**Deadline 22nd july 2 pm**
+**Deadline 22nd july 2020 , 2 pm**
