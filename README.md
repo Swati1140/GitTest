@@ -3,6 +3,7 @@
   
   ```
   Everything Should be Done from CLI/CMD/Terminal
+  
   ```
   ❌ Don't push anything on your own master branch
 :heavy_check_mark: _**Good Work! Team**_
